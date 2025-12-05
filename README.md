@@ -1,4 +1,4 @@
-# 📅 Day 14 — JavaScript Core Concepts & Logic Workout
+# 📅 Day 14 JavaScript Core Concepts & Logic Workout
 
 Today’s focus was all about strengthening the core working parts of JavaScript—the concepts that appear repeatedly in real-world development and review interviews.
 
